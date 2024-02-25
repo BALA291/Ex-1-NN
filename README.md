@@ -85,7 +85,30 @@ print(len(x_test))
 
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+
+### DATASET
+![DATASET](https://github.com/BALA291/Ex-1-NN/assets/120717501/081b4f21-9b40-40aa-a61d-78a36363ebcb)
+
+### AFTER DROP OPERATION
+![drop](https://github.com/BALA291/Ex-1-NN/assets/120717501/cbd01046-2f82-4cf2-9470-c4f9897aa817)
+
+### CHECK NULL VALUES
+![null values](https://github.com/BALA291/Ex-1-NN/assets/120717501/784d9de7-b071-4645-a9ed-b50226ff3f1f)
+
+### DESCRIBE DATA
+![described](https://github.com/BALA291/Ex-1-NN/assets/120717501/50361816-fa50-46bd-b81b-d27bb97445d4)
+
+### PREPROCESSING
+![preprocessed data](https://github.com/BALA291/Ex-1-NN/assets/120717501/cce4e7a2-28f5-45ce-a3db-e364b251f992)
+
+### ALLOCATE X AND Y VALUES
+![x and y values](https://github.com/BALA291/Ex-1-NN/assets/120717501/3a6e466d-dc72-4b04-9ccc-d1b12518c509)
+
+### SPLIT INTO TRAINING AND TESTING DATA
+![splitvalue](https://github.com/BALA291/Ex-1-NN/assets/120717501/3fc60cd9-cd6a-402a-9120-5c916e910299)
+
+
+
 
 
 ## RESULT:
